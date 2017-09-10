@@ -1,4 +1,6 @@
 # mdserv
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Bonuspunkt/mdserv.svg)](https://greenkeeper.io/)
 static http server with markdown support
 
 ##installation
